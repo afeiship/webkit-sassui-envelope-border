@@ -1,4 +1,15 @@
 @import "../dist/webkit-sassui-envelope-border.scss";
 .test-webkit-sassui-envelope-border{
-  @include webkit-sassui-envelope-border($inSize:5px,$inBgSize:10%,$inRadius:10px,$inBdPadding:10px);
+  @include webkit-sassui-envelope-border($inSize:3px,$inBgSize:10%,$inRadius:10px,$inBdPadding:10px);
+  margin: 40px auto;
+  width:80%;
+  >.bd{
+    padding: 10px;
+    font-size: 12px;
+    line-height: 22px;
+    font-family: monospace;
+    background: #fffced;
+    color: #333;
+    border-radius: 3px;
+  }
 }
