@@ -12,9 +12,9 @@
   "keywords": [
     "webkit",
     "cssui",
-    "envelope-border"
+    "sassui"
   ],
-  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "homepage": "https://github.com/afeiship/webkit-sassui-envelope-border",
   "moduleType": [
     "amd"
   ],
